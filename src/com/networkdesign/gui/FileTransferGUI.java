@@ -453,5 +453,6 @@ public class FileTransferGUI extends JFrame {
             FileTransferGUI gui = new FileTransferGUI();
             gui.setVisible(true);
         });
+        System.out.println("服务器准备启动就绪～");
     }
 }
